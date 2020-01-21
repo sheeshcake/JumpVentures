@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Iceland Theme.ogg-1687e7df8bfaa6ce6ee68221e0dd5449.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Iceland Theme.ogg"
+dest_files=[ "res://.import/Iceland Theme.ogg-1687e7df8bfaa6ce6ee68221e0dd5449.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
